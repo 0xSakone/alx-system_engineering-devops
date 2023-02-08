@@ -1,2 +1,2 @@
 #!/bin/bash
-for d in . .. /boot; do ls -al "$d"; done
+./lister
