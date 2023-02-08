@@ -1,4 +1,7 @@
 #!/bin/bash
+echo ".:"
 ls -lan .
+echo "..:"
 ls -lan ../
-ls -lan /boot
+echo "/boot:"
+ls -nla /boot
