@@ -1,10 +1,10 @@
 #!/bin/bash
 echo ".:"
-ls -lan .
+ls -la .
 echo "          "
 echo "..:"
-ls -lan ../
+ls -la ../
 echo ""
 echo "/boot:"
-ls -nla /boot
+ls -la /boot
 echo ""
