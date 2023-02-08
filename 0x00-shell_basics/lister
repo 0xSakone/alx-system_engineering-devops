@@ -7,4 +7,3 @@ ls -la ../
 echo ""
 echo "/boot:"
 ls -la /boot
-echo ""
