@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al . && ls -al .. && ls -al /boot
+for d in . .. /boot; do ls -al "$d"; done
