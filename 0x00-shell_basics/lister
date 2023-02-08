@@ -1,4 +1,4 @@
 #!/bin/bash
 ls -lan .
-ls -lan /root
+ls -lan ../
 ls -lan /boot
