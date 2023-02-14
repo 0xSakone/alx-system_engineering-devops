@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $D | tr ':' '\n' | uniq -u |  wc -l | xargs
+echo $PATH | tr ':' '\n' | uniq -u |  wc -l | xargs
